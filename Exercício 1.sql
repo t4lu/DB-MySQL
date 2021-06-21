@@ -1,4 +1,4 @@
-/*Função: Exercício 2
+/*Função: Exercício 1
  * Autora: Talu - Turma 25
  * Data: 18.06.2021
 */
